@@ -1,0 +1,4 @@
+cep	logradouro	complemento	unidade	bairro	localidade	uf	estado	regiao	ibge	gia	ddd	siafi
+07411175	Rua São Miguel			Jordanópolis	Arujá	SP	São Paulo	Sudeste	3503901	1880	11	6177
+07411425	Alameda das Orquídeas			Cidade Nova Arujá	Arujá	SP	São Paulo	Sudeste	3503901	1880	11	6177
+07411440	Alameda Azaléias			Cidade Nova Arujá	Arujá	SP	São Paulo	Sudeste	3503901	1880	11	6177
